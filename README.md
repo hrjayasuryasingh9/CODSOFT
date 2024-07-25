@@ -2,8 +2,6 @@
 
 ![Codsoft Logo](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1fy0yUeGuoV5uCgnrSe6aEHuYLUiKJ0WdU4aByF2zHPJi38yv) <!-- Replace this URL with the actual Codsoft logo URL -->
 
-## Welcome to Codsoft!
-
 ### About Codsoft
 Codsoft is a dynamic and innovative tech company dedicated to providing cutting-edge software solutions. Our mission is to empower businesses with efficient, reliable, and scalable technology to drive their success in the digital age. We pride ourselves on our creative approach to problem-solving and our commitment to excellence.
 
